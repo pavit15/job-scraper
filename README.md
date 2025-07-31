@@ -1,6 +1,7 @@
 # Job Scraper Codes
 As a prerequisite to my Job Hunter project, I implemented these codes to scrape job listings from companies. 
-Link to Job Hunter project: https://github.com/pavit15/job-hunter
+
+Link to the Job Hunter project: https://github.com/pavit15/job-hunter
 
 ## Features
 Scrapes job listings from Microsoft, LinkedIn, RemoteOK, Google, and Amazon
